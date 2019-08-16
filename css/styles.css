@@ -1,0 +1,161 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Bree Serif', serif;;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Lobster', cursive;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+  color:#11999E;
+}
+
+h3{
+  font-family: 'Oswald', sans-serif;
+    color:#11999E;
+}
+
+.typing{
+  float: left;
+  margin-right: 30px;
+}
+
+.blackgirl{
+  float: right;
+  margin-right: 30px;
+}
+
+.top-container {
+  background-color: #ffc5a1;
+  position: relative;
+  padding-top: 100px;
+  width: 100%;
+}
+
+
+
+a{
+    color:#11999E;
+}
+
+.cloud1{
+  position: absolute;
+  right: 500px;
+  top: 40px;
+}
+
+.cloud2{
+  position: absolute;
+  left: 500px;
+  bottom: 250px;
+}
+
+.introduction{
+  position: absolute;
+  left: 750px;
+  top: 90px;
+  color: #66BFBF;
+}
+
+.programmer{
+  position: absolute;
+  left: 770px;
+  top: 130px;
+  font-size: 2.5rem;
+  margin-top: 60px;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #ffc5a1;
+  padding: 50px 0 20px;
+}
+
+.middle-container{
+  margin: 50px 0;
+}
+
+.footer-link1{
+  display: inline-block;
+  text-decoration: none;
+}
+
+
+.footer-link2{
+  display: inline-block;
+  margin: auto 50px;
+  text-decoration: none;
+}
+
+.footer-link3{
+  display: inline-block;
+  text-decoration: none;
+}
+
+.copywrite{
+  font-size:0.75rem;
+  padding: 20px 0 20px 0;
+}
+a:hover{
+  color: white;
+}
+
+hr{
+  border: dotted #ffc5a1 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.btn{
+  background-color: #ffc5a1;
+  padding: 10px;
+  border: solid;
+  border-color: #ffc5a1;
+  margin-bottom: 40px;
+  border-radius: 15%;
+}
+
+.contact-me{
+  padding-bottom: 100px;
+}
+
+.trademark{
+  color: white;
+}
+
+p{
+  line-height: 2;
+}
+
+.profile{
+  border-radius: 50%;
+}
+
+.blackgirl{
+  height: 150px;
+}
+
+
+.contact-message{
+  width: 40px;
+  margin: 40px auto 60px;
+}
